@@ -1,0 +1,15 @@
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\bin\Release\netcoreapp2.2\appsettings.json
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\bin\Release\netcoreapp2.2\Autho.JWT.deps.json
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\bin\Release\netcoreapp2.2\Autho.JWT.runtimeconfig.json
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\bin\Release\netcoreapp2.2\Autho.JWT.runtimeconfig.dev.json
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\bin\Release\netcoreapp2.2\Autho.JWT.dll
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\bin\Release\netcoreapp2.2\Autho.JWT.pdb
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.csproj.CoreCompileInputs.cache
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.RazorAssemblyInfo.cache
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.RazorAssemblyInfo.cs
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.AssemblyInfoInputs.cache
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.AssemblyInfo.cs
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.RazorTargetAssemblyInfo.cache
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.dll
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\obj\Release\netcoreapp2.2\Autho.JWT.pdb
+D:\CoreDemo\BlogArti\Blog.Core_JWT\Autho.JWT\bin\Release\netcoreapp2.2\Autho.JWT.xml
